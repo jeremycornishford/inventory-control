@@ -7,6 +7,7 @@ Project Team Members
 =====================
 Matthew Norman
 Joseph Cohen
+Jeremy Ford
 Scott Friedman
 
 
@@ -16,14 +17,14 @@ Requirements:
  * Store donor information
  * Store received inventory
  * Generate a report on command.
- * Allow easy management by WCE workers.
+ * Allow easy management by WCE workers. 
 
 
-Tech Stack:
+Technology Stack:
 ===========
 Python 2.7
 Flask(framework)
-MySQL
+MySQLdb
 
 
 Project Status:
