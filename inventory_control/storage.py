@@ -145,3 +145,6 @@ class StorageEngine(object):
         self.cursor.close()
         self.db.commit()
         self.cursor= self.db.cursor()
+        
+    def count_inventory(self):
+        pass
